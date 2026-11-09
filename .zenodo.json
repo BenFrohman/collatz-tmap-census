@@ -1,0 +1,38 @@
+{
+  "title": "The T-map contracts at √3/2: a Collatz census below 10^6, a length-16 parity-vector bijection, and a coral inverse tree",
+  "description": "The accelerated Collatz map T(n) has a unique coin-flip geometric mean √(1/2 · 3/2) = √3/2. A complete census below 10^6 measures the mean as 0.865312 (relative error 8·10^{-4}). On the same window every orbit reaches 1, the delay record is (837799, 524), and the first sixteen parity vectors are in bijection with residue classes modulo 2^k. The inverse graph on a 433-node window is a tree. These are resolved statements. They are not the Collatz conjecture. Finite-window computational resolution only.",
+  "creators": [
+    {
+      "name": "Frohman, Benjamin Stanley",
+      "orcid": "0009-0006-7068-3718",
+      "affiliation": "Lewisville, Texas"
+    }
+  ],
+  "keywords": [
+    "Collatz conjecture",
+    "accelerated Collatz map",
+    "geometric mean",
+    "parity vectors",
+    "inverse tree",
+    "computational census",
+    "T-map"
+  ],
+  "license": "Apache-2.0",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.23629486",
+      "relation": "isReferencedBy"
+    },
+    {
+      "identifier": "10.5281/zenodo.23629484",
+      "relation": "isReferencedBy"
+    },
+    {
+      "identifier": "10.5281/zenodo.23629488",
+      "relation": "isReferencedBy"
+    }
+  ],
+  "notes": "This is a new record and a new DOI. Title the record by the √3/2 contraction, not by the Collatz conjecture solved. Does not prove the Collatz conjecture."
+}

@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this manuscript, please cite it as below."
+title: "The T-map contracts at √3/2: a Collatz census below 10^6, a length-16 parity-vector bijection, and a coral inverse tree"
+authors:
+  - family-names: Frohman
+    given-names: Benjamin Stanley
+    orcid: "https://orcid.org/0009-0006-7068-3718"
+    affiliation: "Lewisville, Texas"
+date-released: 2026-09-18
+license: Apache-2.0
+repository-code: "https://github.com/BenFrohman/collatz-tmap-census"
+keywords:
+  - Collatz conjecture
+  - accelerated Collatz map
+  - geometric mean
+  - parity vectors
+  - inverse tree
+  - computational census
+notes: "Finite-window computational resolution. Does not prove the Collatz conjecture."

@@ -17,4 +17,4 @@ keywords:
   - parity vectors
   - inverse tree
   - computational census
-notes: "Finite-window computational resolution. Does not prove the Collatz conjecture."
+abstract: "Finite-window computational resolution. Does not prove the Collatz conjecture."

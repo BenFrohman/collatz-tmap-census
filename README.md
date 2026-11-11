@@ -44,3 +44,9 @@ License: Apache License 2.0
 ## Status
 
 Computational finite-window resolution. Does not prove Collatz.
+
+## Citation and copyright
+
+Cite this work with [`CITATION.cff`](CITATION.cff) (GitHub's "Cite this repository" button).
+
+© 2026 Benjamin Stanley Frohman.
